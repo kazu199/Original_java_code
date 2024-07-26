@@ -1,1 +1,2 @@
-# Original_java_code
+# Original_Blackjack_code
+Blackjackのコード
