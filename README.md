@@ -1,2 +1,1 @@
-# Original_ブラックジャック
-Blackjackのコード
+# Original_code
