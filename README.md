@@ -1,2 +1,2 @@
-# Original_Blackjack_code
+# Original_ブラックジャック
 Blackjackのコード
